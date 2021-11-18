@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Find Yourself</string>
+    <string name="test">19/25</string>
+    <string name="quiz">Questions are being uploaded :)</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="go">GO!</string>
+    <string name="next">Next</string>
+    <string name="it">IT</string>
+    <string name="art">ART</string>
+    <string name="business">BUSINESS</string>
+    <string name="technician">TECHNICIAN</string>
+    <string name="result">Aliyev Vali</string>
+    <string name="back">Back</string>
+
+    <string name="variantA">Very Interested</string>
+    <string name="variantB">Interested</string>
+    <string name="variantC">Slightly Interested</string>
+    <string name="variantD">Not Interested</string>
+</resources>
